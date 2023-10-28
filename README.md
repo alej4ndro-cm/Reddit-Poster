@@ -1,4 +1,4 @@
-# University Ripple Poster
+# University Reddit Poster
 
 This project, housed in the `Reddit` root folder, contains a script (`uni_ripple_poster.ipynb`) that automates the process of posting to various university-related subreddits on Reddit, inviting students to join Ripplematch. The script reads university names and potential subreddit names from files, and posts a predefined message to these subreddits.
 
